@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ProjectLatihan</string>
+    <string-array name="datalist">
+        <item>data ke 1</item>
+        <item>data ke 2</item>
+        <item>data ke 3</item>
+        <item>data ke 4</item>
+        <item>data ke 5</item>
+        <item>data ke 6</item>
+        <item>data ke 7</item>
+        <item>data ke 8</item>
+        <item>data ke 9</item>
+        <item>data ke 10</item>
+        <item>data ke 11</item>
+        <item>data ke 12</item>
+        <item>data ke 13</item>
+        <item>data ke 14</item>
+        <item>data ke 15</item>
+    </string-array>
+</resources>
